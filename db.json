@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Bloodworth",
+      "gender": "female",
+      "price": 3978,
+      "category": "saree",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "title": "Tomik",
+      "gender": "female",
+      "price": 2198,
+      "category": "jacket",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "title": "Pauley",
+      "gender": "male",
+      "price": 933,
+      "category": "jacket",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 4,
+      "title": "Edgerley",
+      "gender": "female",
+      "price": 4286,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 5,
+      "title": "Featherstonhaugh",
+      "gender": "female",
+      "price": 2853,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 6,
+      "title": "Busek",
+      "gender": "female",
+      "price": 4687,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 7,
+      "title": "Myrie",
+      "gender": "male",
+      "price": 2684,
+      "category": "shirt",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 8,
+      "title": "Doxey",
+      "gender": "male",
+      "price": 4727,
+      "category": "salwar",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 9,
+      "title": "Ivons",
+      "gender": "male",
+      "price": 1243,
+      "category": "trouser",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 10,
+      "title": "Markel",
+      "gender": "male",
+      "price": 1353,
+      "category": "jacket",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "title": "",
+      "gender": "",
+      "price": "",
+      "category": "",
+      "image": "",
+      "id": 11
+    },
+    {
+      "title": "fref",
+      "gender": "female",
+      "price": "dfddfef",
+      "category": "fre",
+      "image": "",
+      "id": 12
+    },
+    {
+      "title": "fgf",
+      "gender": "male",
+      "price": "rtew",
+      "category": "fjghrj",
+      "image": "",
+      "id": 13
+    },
+    {
+      "title": "fgf",
+      "gender": "male",
+      "price": "rtew",
+      "category": "fjghrj",
+      "image": "",
+      "id": 14
+    },
+    {
+      "title": "fgf",
+      "gender": "male",
+      "price": "rtew",
+      "category": "fjghrj",
+      "image": "",
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "title": "ghjd",
+      "gender": "male",
+      "price": "548489",
+      "category": "fjghd",
+      "image": "",
+      "id": "2ee337e0-fb07-4de7-8c0d-1d47f7a83443"
+    }
+  ]
+}
